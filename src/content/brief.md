@@ -1,14 +1,14 @@
-# AutomationWise – Project Support & Technical Troubleshooting
+# AutomationWise - Project Support & Technical Troubleshooting
 
-**Based in Louisiana – Available Remote & On-Site**
+**Based in Louisiana - Available Remote & On-Site**
 
 I’m a seasoned systems administrator and software generalist with 20+ years’ experience in:
 
-- **Systems & Infrastructure** – Linux, Windows, network configuration, environment setup, migrations  
-- **Automation & Scripting** – Python, Bash/Zsh, PowerShell, Ansible, CI/CD pipelines  
-- **Troubleshooting & Recovery** – Debugging stubborn issues, stabilizing broken systems, rescuing failed deployments  
-- **Integration Work** – APIs, cloud services, cross-platform workflows  
-- **Documentation & Process** – Clean, repeatable setups; Git-based knowledge management
+- **Systems & Infrastructure** - Linux, Windows, network configuration, environment setup, migrations
+- **Automation & Scripting** - Python, Bash/Zsh, PowerShell, Ansible, CI/CD pipelines
+- **Troubleshooting & Recovery** - Debugging stubborn issues, stabilizing broken systems, rescuing failed deployments
+- **Integration Work** - APIs, cloud services, cross-platform workflows
+- **Documentation & Process** - Clean, repeatable setups; Git-based knowledge management
 
 **How I Work**  
 - You own the project — I make the problems go away.  
