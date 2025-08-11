@@ -1,7 +1,6 @@
 name: Deploy to GitHub Pages
 
 on:
-  # FIX: Corrected indentation here.
   push:
     branches: [ "main" ]
   workflow_dispatch:
@@ -28,10 +27,8 @@ jobs:
       - run: npm run build
       - uses: actions/upload-pages-artifact@v3
         with:
-          # This should be the output directory from your "npm run build" command
           path: dist
 
-  # FIX: Corrected indentation here. 'deploy' is its own job, not part of 'build'.
   deploy:
     needs: build
     runs-on: ubuntu-latest
