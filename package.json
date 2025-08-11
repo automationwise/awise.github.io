@@ -1,20 +1,18 @@
 {
-  "name": "automationwise-site",
-  "version": "0.1.0",
+  "name": "awise.github.io",
   "private": true,
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview --port 4173 --strictPort"
+    "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.4.38"
+    "vue": "^3.5.18"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^5.1.2",
-    "typescript": "^5.5.4",
-    "vite": "^5.4.1",
-    "vite-plugin-md": "^0.22.5"
+    "@vitejs/plugin-vue": "^6.0.1",
+    "vite": "^7.1.0"
   }
 }
