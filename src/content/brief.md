@@ -1,5 +1,7 @@
 
-**Based in Louisiana - Available Remote & On-Site**
+<div align="center">
+  <b>Based in Louisiana with Tim - Available Remote & On-Site</b>
+</div>
 
 I’m a seasoned systems administrator and software generalist with 20+ years’ experience in:
 
