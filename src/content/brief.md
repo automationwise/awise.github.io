@@ -1,4 +1,3 @@
-# AutomationWise - Project Support & Technical Troubleshooting
 
 **Based in Louisiana - Available Remote & On-Site**
 
