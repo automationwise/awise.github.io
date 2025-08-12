@@ -7,18 +7,23 @@ We help organizations stabilize, automate, and streamline IT environments. With 
 **Core Services**
 
 Infrastructure Management 
+
     – Configuration, migrations, and environment setup for reliable, scalable operations.
 
 Automation Development 
+
     – Python, Bash, PowerShell, and Ansible solutions to reduce manual work and speed up delivery.
 
 System Recovery & Optimization 
+
     – Diagnose and resolve complex issues, restore failed deployments, and improve performance.
 
 Integration & Workflow Design 
+
     – Connect cloud services, APIs, LLMs, VLMs, and platforms for seamless operations.
 
 Process & Documentation 
+
     – Build repeatable, maintainable processes backed by clear, accessible documentation.
 
 **How we Work**
