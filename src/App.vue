@@ -3,7 +3,6 @@
     <section class="hero">
       <h1>AutomationWise</h1>
       <p class="tagline">Project Support & Technical Troubleshooting</p>
-      <p class="subline">Based in Louisiana with Tim · Remote & On-Site</p>
       <div style="margin-top:1rem;">
         <a class="cta" href="mailto:eric@automationwise.com">Contact Eric</a>
       </div>
