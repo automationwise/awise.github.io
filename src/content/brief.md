@@ -1,27 +1,32 @@
-
 <div align="center">
   <b>Based in Louisiana - Available Remote & On-Site</b>
 </div>
 
-I’m a seasoned systems administrator and software generalist with 20+ years’ experience in:
+We help organizations stabilize, automate, and streamline IT environments. With two decades of experience across Linux, Windows, and hybrid infrastructures, we deliver solutions that keep systems running and projects moving.
 
-- **Systems & Infrastructure** - Linux, Windows, network configuration, environment setup, migrations
-- **Automation & Scripting** - Python, Bash/Zsh, PowerShell, Ansible, CI/CD pipelines
-- **Troubleshooting & Recovery** - Debugging stubborn issues, stabilizing broken systems, rescuing failed deployments
-- **Integration Work** - APIs, cloud services, cross-platform workflows
-- **Documentation & Process** - Clean, repeatable setups; Git-based knowledge management
+**Core Services**
 
-**How I Work**  
-- You own the project — I make the problems go away.  
-- Clear scope, fair rate, no micromanagement needed.  
-- Subcontractor or embedded temporary engineer.  
+Infrastructure Management – Configuration, migrations, and environment setup for reliable, scalable operations.
+
+Automation Development – Python, Bash, PowerShell, and Ansible solutions to reduce manual work and speed up delivery.
+
+System Recovery & Optimization – Diagnose and resolve complex issues, restore failed deployments, and improve performance.
+
+Integration & Workflow Design – Connect cloud services, APIs, LLMs, VLMs, and platforms for seamless operations.
+
+Process & Documentation – Build repeatable, maintainable processes backed by clear, accessible documentation.
+
+**How we Work**
+- You own the project — we make the problems go away.
+- Clear scope, fair rate, no micromanagement needed.
+- Subcontractor or embedded temporary engineer.
 - Short bursts or longer engagements.
 
-**When to Call Me**  
-- Stalled migration or deployment  
-- Half-built automation that needs to run yesterday  
-- Persistent issue that needs sharp eyes  
+**When to Call Us**
+- Stalled migration or deployment
+- Half-built automation that needs to run yesterday
+- High-impact technical issues affecting operations
 - Team is swamped, need trusted extra hands
 
-📧 **Contact:** eric@automationwise.com  
+📧 **Contact:** eric@automationwise.com
 🌐 **automationwise.com**

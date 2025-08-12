@@ -9,7 +9,7 @@
 
       <div class="badges" aria-label="tooling">
         <span class="badge">Linux/Windows</span>
-        <span class="badge">Ansible</span>
+        <span class="badge">Troubleshooting</span>
         <span class="badge">Python · Bash · PowerShell</span>
         <span class="badge">CI/CD</span>
         <span class="badge">APIs & Integrations</span>
