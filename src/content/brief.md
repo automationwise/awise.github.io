@@ -1,43 +1,53 @@
-<div align="center">
-  <b>Based in Louisiana - Available Remote & On-Site</b>
-</div>
+# AutomationWise
+**Expert IT Support & Infrastructure Solutions**
 
-We help organizations stabilize, automate, and streamline IT environments. With two decades of experience across Linux, Windows, and hybrid infrastructures, we deliver solutions that keep systems running and projects moving.
+[Contact Us](mailto:eric@automationwise.com)
 
-**Core Services**
+---
 
-Infrastructure Management 
+### Helping Businesses Run Smarter, Safer, and Smoother
+AutomationWise LLC is based in Louisiana and provides **remote and on-site IT services**.  
+With over 20 years designing, securing, and maintaining IT environments, we help businesses eliminate downtime, control costs, and scale with confidence.
 
-    – Configuration, migrations, and environment setup for reliable, scalable operations.
+---
 
-Automation Development 
+## What We Do
 
-    – Python, Bash, PowerShell, and Ansible solutions to reduce manual work and speed up delivery.
+**Fractional IT Administration**  
+Professional IT leadership for companies that don’t need (or can’t yet hire) a full-time administrator.
 
-System Recovery & Optimization 
+**System Rescue & Recovery**  
+Get projects back on track, restore failed deployments, and resolve urgent incidents before they impact customers.
 
-    – Diagnose and resolve complex issues, restore failed deployments, and improve performance.
+**Automation & Workflow Design**  
+We reduce manual work with Python, Bash, PowerShell, and Ansible. From CI/CD pipelines to cloud integrations, we streamline how your systems run.
 
-Integration & Workflow Design 
+**Infrastructure Management**  
+Secure, stable environments across Linux, Windows, and hybrid setups — migrations, upgrades, and scalable deployments.
 
-    – Connect cloud services, APIs, LLMs, VLMs, and platforms for seamless operations.
+**Security & Compliance Readiness**  
+Audit, harden, and prepare your systems for growth while keeping threats at bay.
 
-Process & Documentation 
+---
 
-    – Build repeatable, maintainable processes backed by clear, accessible documentation.
+## Why Choose AutomationWise
+- Clear scope and fair pricing — no surprises.  
+- Fast response and practical fixes, not endless tickets.  
+- Experience running *entire infrastructures*, not just single systems.  
+- Flexible: short-term rescue, project work, or ongoing partnership.  
 
-**How we Work**
-- You own the project — we make the problems go away.
-- Clear scope, fair rate, no micromanagement needed.
-- Subcontractor or embedded temporary engineer.
-- Short bursts or longer engagements.
+---
 
-**When to Call Us**
-- Stalled migration or deployment
-- Half-built automation that needs to run yesterday
-- High-impact technical issues affecting operations
-- Team is swamped, need trusted extra hands
+## Common Scenarios
+- Your migration is stuck and deadlines are slipping.  
+- Your systems are “working” but nobody trusts them.  
+- A half-built automation pipeline needs to run *yesterday*.  
+- The business is growing faster than your IT can keep up.  
+- You just need a reliable extra set of hands.
 
-📧 **Contact:** eric@automationwise.com
+---
 
-🌐 **automationwise.com**
+## Get in Touch
+📧 [eric@automationwise.com](mailto:eric@automationwise.com)  
+🌐 [automationwise.com](https://automationwise.com)  
+📍 Based in Louisiana — serving clients remotely and on-site.
