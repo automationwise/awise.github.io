@@ -27,14 +27,14 @@ We simplify complex processes with sensible automations and workflows, supported
 Secure, stable environments across Linux, Windows, and hybrid(setups, migrations, upgrades, or scalable deployments).
 
 **Security & Compliance Readiness**  
-Audit, harden, and prepare your systems for growth while keeping threats at bay.
+Audit, document, harden, and prepare your systems for growth while keeping threats at bay.
 
 ---
 
 ## Why Choose AutomationWise
-- Clear scope and fair pricing — no surprises.  
+- Clear scope and fair pricing; no surprises.  
 - Fast response and practical fixes, not endless tickets.  
-- Experience running *entire infrastructures*, not just single systems.  
+- Experience designing and running *entire infrastructures*, not just single systems.  
 - Flexible: short-term rescue, project work, or ongoing partnership.  
 
 ---
@@ -51,4 +51,4 @@ Audit, harden, and prepare your systems for growth while keeping threats at bay.
 ## Get in Touch
 📧 [eric@automationwise.com](mailto:eric@automationwise.com)  
 🌐 [automationwise.com](https://automationwise.com)  
-📍 Based in Louisiana || serving clients remotely and on-site.
+📍 Based in Louisiana - Available remotely or on-site.
