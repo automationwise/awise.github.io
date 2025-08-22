@@ -20,7 +20,7 @@ Professional IT leadership for companies that don’t need (or can’t yet hire)
 Get projects back on track, restore failed deployments, and resolve urgent incidents before they impact customers.
 
 **Automation & Workflow Design**  
-We simplify complex processes with sensible automations and workflows, supported by documentation that’s easy to understand, designed for people, not just machines.
+We simplify complex processes with sensible automations and workflows, supported by clear documentation designed for people, not just machines.
 
 
 **Infrastructure Management**  
