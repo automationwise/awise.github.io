@@ -51,4 +51,7 @@ Audit, document, harden, and prepare your systems for growth while keeping threa
 ## Get in Touch
 📧 [eric@automationwise.com](mailto:eric@automationwise.com)  
 🌐 [automationwise.com](https://automationwise.com)  
+ [GitHub (Personal)](https://github.com/redog)
+ [GitHub (Org)](https://github.com/automationwise)
+ [LinkedIn](https://www.linkedin.com/in/eric-ortego/)
 📍 Based in Louisiana - Available remotely or on-site.
