@@ -49,6 +49,6 @@ Audit, document, harden, and prepare your systems for growth while keeping threa
 ---
 
 ## Get in Touch
-📧 [eric@automationwise.com](mailto:eric@automationwise.com)
-🌐 [automationwise.com](https://automationwise.com)
-📍 Based in Louisiana - Available remotely or on-site.
+📧 [eric@automationwise.com](mailto:eric@automationwise.com)  
+🌐 [automationwise.com](https://automationwise.com)  
+📍 Based in Louisiana - Available remotely or on-site.  
