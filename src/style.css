@@ -40,3 +40,14 @@ ul.clean li { margin:.35rem 0; }
 /* brief links */
 .brief a { color: var(--accent); text-decoration: none; border-bottom: 1px dashed var(--accent); }
 
+.social-icons { display: flex; gap: 1rem; justify-content: center; margin-top: 1.5rem; }
+.social-icons a { color: var(--muted); text-decoration: none; }
+.social-icons a:hover { color: var(--fg); }
+.social-icons svg { width: 24px; height: 24px; }
+
+.footer .social-icons { margin-bottom: 1rem; }
+
+.selected-work h3 { margin-top: 0; }
+.selected-work ul { padding-left: 1.5rem; margin: 0; }
+.selected-work a { color: var(--accent); text-decoration: none; }
+.selected-work a:hover { text-decoration: underline; }
