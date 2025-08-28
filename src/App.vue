@@ -32,7 +32,7 @@
     <section class="brief card">
       <Brief />
     </section>
-
+    <!-- hide for now
     <section class="selected-work card">
       <h3>Selected Work</h3>
       <ul>
@@ -41,7 +41,7 @@
         <li><a href="#" target="_blank" rel="noopener noreferrer">Placeholder Project 3: A brief description</a></li>
       </ul>
     </section>
-
+    -->
     <footer class="footer">
       <div class="social-icons">
         <a href="https://github.com/redog" target="_blank" rel="noopener noreferrer" aria-label="GitHub user profile">
