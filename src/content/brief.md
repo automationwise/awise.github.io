@@ -1,54 +1,69 @@
 # AutomationWise
-**Expert IT Support & Infrastructure Solutions**
+**IT that actually works — built, fixed, and run by someone who's been doing this since dial-up.**
 
-[Contact Us](mailto:eric@automationwise.com)
-
----
-
-### Helping Businesses Run Smarter, Safer, and Smoother
-AutomationWise LLC is based in Louisiana and provides **remote and on-site IT services**.  
-With over 20 years designing, securing, and maintaining IT environments, we help businesses eliminate downtime, control costs, and scale with confidence.
+[Contact Eric](mailto:eric@automationwise.com)
 
 ---
 
-## What We Do
+### Writing code since 1988. Building machines since 1994. Doing it professionally since 1998.
 
-**Fractional IT Administration**  
-Professional IT leadership for companies that don’t need (or can’t yet hire) a full-time administrator.
+AutomationWise LLC is Eric Ortego — a one-person IT firm based in Opelousas, Louisiana, serving businesses remotely and on-site.
 
-**System Rescue & Recovery**  
-Get projects back on track, restore failed deployments, and resolve urgent incidents before they impact customers.
+I started programming at nine years old. I was writing HTML and JavaScript the year JavaScript existed. I built my first PC from parts at fifteen and got my first IT job at nineteen. Twenty-eight years of professional work later, I've designed, secured, rescued, and run entire infrastructures — not just pieces of them.
 
-**Automation & Workflow Design**  
-We simplify complex processes with sensible automations and workflows, supported by clear documentation designed for people, not just machines.
-
-
-**Infrastructure Management**  
-Secure, stable environments across Linux, Windows, and hybrid(setups, migrations, upgrades, or scalable deployments).
-
-**Security & Compliance Readiness**  
-Audit, document, harden, and prepare your systems for growth while keeping threats at bay.
+When you hire AutomationWise, there's no account manager, no ticket queue, no junior tech learning on your dime. You work directly with the person doing the work.
 
 ---
 
-## Why Choose AutomationWise
-- Clear scope and fair pricing; no surprises.  
-- Fast response and practical fixes, not endless tickets.  
-- Experience designing and running *entire infrastructures*, not just single systems.  
-- Flexible: short-term rescue, project work, or ongoing partnership.  
+## What I Do
+
+**Fractional IT Leadership**
+Full IT department capability for companies that don't need — or can't yet justify — a full-time hire. Strategy, execution, and the 2 a.m. emergencies.
+
+**Microsoft Cloud & Hybrid Environments**
+Microsoft 365, Entra ID, Intune, Azure, Conditional Access — plus the on-prem Active Directory and Windows Server estate that still runs half the world. I manage both ends and the messy middle where they meet.
+
+**System Rescue & Recovery**
+Stuck migrations, failed deployments, urgent incidents, the project the last guy abandoned. I get things unstuck and back in production.
+
+**Automation & Workflow Design**
+PowerShell, Python, APIs, runbooks, CI/CD. I replace repetitive manual work with automation that's documented for humans — so it doesn't become the next thing nobody understands.
+
+**Infrastructure Management**
+Linux, Windows, virtualization, backup, monitoring, networking. Setups, migrations, upgrades, and scaling — secure and stable by default.
+
+**Security & Compliance Readiness**
+Phishing-resistant MFA, Conditional Access, hardening, auditing, documentation. Get your systems defensible before someone tests them for you.
 
 ---
 
-## Common Scenarios
-- Your migration is stuck and deadlines are slipping.  
-- Your systems are “working” but nobody trusts them.  
-- A half-built automation pipeline needs to run *yesterday*.  
-- The business is growing faster than your IT can keep up.  
-- You just need a reliable extra set of hands.
+## Why Hire AutomationWise
+
+- **You talk to the person doing the work.** Every time. No layers.
+- **Whole-infrastructure experience.** I've run complete environments end-to-end — cloud, on-prem, and hybrid — not just administered single systems.
+- **Fast, practical fixes.** Root causes, not band-aid tickets.
+- **Flexible engagement.** Emergency rescue, scoped projects, or ongoing partnership. Clear scope and honest pricing either way.
+
+---
+
+## Sound Familiar?
+
+- Your migration is stuck and the deadline isn't moving.
+- Your systems are "working," but nobody trusts them.
+- A half-built automation pipeline needed to run *yesterday*.
+- The business is growing faster than IT can keep up.
+- The person who built it left, and nobody knows how it works.
+- You just need a reliable extra set of hands you don't have to manage.
+
+If any of those hit close to home — that's the work I do every week.
 
 ---
 
 ## Get in Touch
-📧 [eric@automationwise.com](mailto:eric@automationwise.com)  
-🌐 [automationwise.com](https://automationwise.com)  
-📍 Based in Louisiana - Available remotely or on-site.  
+
+📧 [eric@automationwise.com](mailto:eric@automationwise.com)
+🌐 [automationwise.com](https://automationwise.com)
+📍 Opelousas, Louisiana — remote or on-site
+
+---
+
