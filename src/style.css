@@ -1,4 +1,4 @@
-:root { --bg:#0b0f14; --card:#10161d; --fg:#e5e7eb; --muted:#a8b3c1; --accent:#6ee7b7; }
+:root { --bg:#0b0f14; --card:#10161de6; --fg:#e5e7eb; --muted:#a8b3c1; --accent:#6ee7b7; }
 * { box-sizing: border-box; }
 html, body, #app { height: 100%; }
 body { margin:0; background:var(--bg); color:var(--fg); font-family:Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; }
@@ -13,8 +13,8 @@ body { margin:0; background:var(--bg); color:var(--fg); font-family:Inter, syste
   background-image: url('/logo.png'); /* Update this to match your filename */
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 50%;     /* Adjust how much of the screen the logo takes up */
-  opacity: 0.03;            /* Keeps it extremely subtle so it doesn't fight your text */
+  background-size: 80%;     /* Adjust how much of the screen the logo takes up */
+  opacity: 0.08;            /* Keeps it extremely subtle so it doesn't fight your text */
   pointer-events: none;     /* CRITICAL: Allows mouse clicks to pass through to your links */
   z-index: 0;               /* Puts it at the bottom of the stacking context */
 }
